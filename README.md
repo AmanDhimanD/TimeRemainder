@@ -1,4 +1,5 @@
 # Create a Clock live Time Zone
+ ```
  // 1. Method ✨😂
   /*  const [currTime, setcurrTime] = useState("")
   axios
@@ -42,3 +43,4 @@
       </p>
     </>
   );
+```
